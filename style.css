@@ -47,3 +47,16 @@ body{
     padding-left: 25px;
     border-radius: 5px;
 }
+#wev-dev1{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue, cyan);
+    border-image-slice: 1;
+}
+#web-dev2{
+    border-left: 7px solid;
+    border-image: linear-gradient(salmon,tomato);
+    border-image-slice: 1;
+}
+footer p{
+    text-align: center;
+}
